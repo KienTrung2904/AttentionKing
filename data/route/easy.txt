@@ -1,0 +1,18 @@
+2 no no
+_toleft 555 386 155 386
+_toup 143 368 143 288
+2 yes green_
+_toup 143 286 143 173
+_toright 146 150 231 150
+3 no no
+_toright 168 268 303 268	
+_toup 345 239 345 174
+_toright 368 150 433 150
+2 yes pink_
+_toright 435 150 563 150
+_todown 598 165 598 255
+1 yes black_
+_todown 471 165 471 255
+1 2
+1 3 4
+1 3 5

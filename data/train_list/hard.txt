@@ -1,0 +1,3 @@
+664 360 _toleft
+20
+pink black pink black green blue green pink yellow blue black blue yellow green black pink yellow pink green blue black

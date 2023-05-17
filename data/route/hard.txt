@@ -1,0 +1,26 @@
+3 no no
+_toleft 663 360 563 360
+_todown 551 370 551 460
+_toleft 529 477 449 477
+1 no no
+_toleft 449 477 244 477
+1 yes green_ 
+_toleft 244 477 104 477
+1 no no
+_toup 427 458 427 276
+2 no no
+_toup 427 276 427 156
+_toleft 405 129 315 129
+1 yes black_
+_toleft 315 129 105 129
+4 yes blue_
+_toup 223 458 223 388
+_toleft 198 360 108 360
+_toup 97 328 117 268
+_toright 104 242 194 242
+3 yes red_
+_toright 437 248 517 248
+_toup 553 213 563 153
+_toright 551 140 661 130
+1 yes yellow_
+_todown 298 145 298 235

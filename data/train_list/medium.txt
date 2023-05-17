@@ -1,0 +1,4 @@
+216 447 _toright
+23 
+black pink black pink black pink green yellow pink green black green yellow black
+pink pink yellow black green green pink yellow 
